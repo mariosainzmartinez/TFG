@@ -24,11 +24,11 @@ En segundo lugar, mostramos en la siguiente tabla el esquema detallado con los r
 
 
 
-# Recursos sobre [deshumanización](https://www.youtube.com/watch?v=QuNbNNqtMvs):
+## Recursos sobre [deshumanización](https://www.youtube.com/watch?v=QuNbNNqtMvs):
 
 En tercer lugar, proporcionamos algunos recursos teóricos sobre el proceso de la[deshumanización](https://www.youtube.com/watch?v=QuNbNNqtMvs) sobre el que el alumnado deberá realizar su TFG.
 
-# Recursos sobre metodología de la investigación y análisis de datos:
+## Recursos sobre metodología de la investigación y análisis de datos:
 
-# Recursos sobre referencias en formato [APA] 
+## Recursos sobre referencias en formato [APA] 
 
