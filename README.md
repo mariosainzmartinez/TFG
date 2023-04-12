@@ -10,10 +10,14 @@ En primer lugar, debemos tener una idea general de los diferentes pasos del TFG 
 
 
 
-En segundo lugar,
+En segundo lugar, mostramos en la siguiente tabla el esquema detallado con los recursos para cada paso que tenemos que realizar en el TFG:
 
-| Rank | THING-TO-RANK | XXX | vvv |
+| Orden | Tareas a realizar | Recursos | Entrega |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1| Asistir a la jornada online de bienvenida | PONER LINK Y GRABACIÓN | 
+|     2| Elegir un (sub)tema del TFG |
+|     3| Propuesta es quemática del TFG  |
+|     4| Primer borrador del TFG  |
+|     5| Entrega del documento final del TFG  |
+|     6| Defensa pública del TFG  |
+|     7| Retroalimentación al profesor  |
