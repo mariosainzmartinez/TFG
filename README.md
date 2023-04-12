@@ -1,7 +1,7 @@
 # Trabajo Fin de Grado (TFG) del profesor Mario Sainz - UNED
 
 
-![useR](files/useR.png)
+![useR](files/Banner tfg.png)
 
 
 Este es el repositorio creado por [Mario Sainz] para coordinar la docencia de los trabajos de fin de grado que dirije desde la UNED
