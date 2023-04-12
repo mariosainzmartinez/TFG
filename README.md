@@ -14,10 +14,21 @@ En segundo lugar, mostramos en la siguiente tabla el esquema detallado con los r
 
 | Orden | Tareas a realizar | Explicación | Recursos |Entrega |
 |-----:|---------------|---------------|---------------| ---------------|
-|     1| Asistir a la jornada online de bienvenida | Presentación de la materia y explicación teórica sobre la [deshumanización](https://www.youtube.com/watch?v=QuNbNNqtMvs)|PONER LINK Y GRABACIÓN | 
+|     1| Asistir a la jornada online de bienvenida | Presentación de la materia y breve explicación teórica |PONER LINK Y GRABACIÓN | 
 |     2| Elegir un (sub)tema del TFG |
 |     3| Propuesta es quemática del TFG  |
 |     4| Primer borrador del TFG  |
 |     5| Entrega del documento final del TFG  |
 |     6| Defensa pública del TFG  |
 |     7| Retroalimentación al profesor  |
+
+
+
+# Recursos sobre [deshumanización](https://www.youtube.com/watch?v=QuNbNNqtMvs):
+
+En tercer lugar, proporcionamos algunos recursos teóricos sobre el proceso de la[deshumanización](https://www.youtube.com/watch?v=QuNbNNqtMvs) sobre el que el alumnado deberá realizar su TFG.
+
+# Recursos sobre metodología de la investigación y análisis de datos:
+
+# Recursos sobre referencias en formato [APA] 
+
