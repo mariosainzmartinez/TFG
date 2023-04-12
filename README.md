@@ -6,7 +6,7 @@ Este es el repositorio creado por [Mario Sainz](https://www.uned.es/universidad/
 
 
 ![](https://github.com/mariosainzmartinez/TFG/blob/main/Infografi%CC%81a%20pasos%20TFG.png)
-Infografía pasos TFG.png
+
 
 | Rank | THING-TO-RANK | XXX | vvv |
 |-----:|---------------|
