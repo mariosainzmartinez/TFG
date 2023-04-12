@@ -4,7 +4,7 @@
 
 Este es el repositorio creado por [Mario Sainz](https://www.uned.es/universidad/docentes/psicologia/mario-sainz-martinez.html#introduccion) para proporcionar al estudiantado al que tutoriza las herramientas para elaborar el Trabajo de Fin de Grado (TFG) en la UNED. Las orientaciones incluidas en este repositorio servirán de guía para las diferentes tareas que se tienen que realizar a lo largo del semestre. No obstante, las indicaciones aquí proporcionadas estárán siempre supeditadas al calendario oficial de la Universidad y a las indicaciones propias de la [guía de la asignatura](http://portal.uned.es/portal/page?_pageid=93,71396222&_dad=portal&_schema=PORTAL&idContenido=20).
 
-En primer lugar, debemos tener una idea general del cronograma de los pasos del TFG que nos la puede proporcionar la siguiente imágen:
+En primer lugar, debemos tener una idea general de los diferentes pasos del TFG que nos la puede proporcionar la siguiente imágen:
 
 ![](https://github.com/mariosainzmartinez/TFG/blob/main/Infografi%CC%81a%20pasos%20TFG.png)
 
