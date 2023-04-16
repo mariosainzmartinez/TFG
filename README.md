@@ -6,7 +6,7 @@ Este es el repositorio creado por [Mario Sainz](https://www.uned.es/universidad/
 
 En primer lugar, debemos tener una idea general de los diferentes pasos del TFG que nos la puede proporcionar la siguiente imágen:
 
-![](https://github.com/mariosainzmartinez/TFG/blob/main/Infografi%CC%81a%20pasos%20TFG.png)
+![](https://raw.githubusercontent.com/mariosainzmartinez/TFG/main/Infografi%CC%81a%20pasos%20TFG.png)
 
 
 
