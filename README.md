@@ -6,7 +6,7 @@ Este es el repositorio creado por [Mario Sainz](https://www.uned.es/universidad/
 
 Para comenzar debemos tener una idea general de los diferentes pasos del TFG. Como puede verse en la siguiente imágen a lo largo del semestre tendremos una serie de tareas que culminarán con la entrega y la defensa del trabajo.
 
-![](https://raw.githubusercontent.com/mariosainzmartinez/TFG/main/Infografi%CC%81a%20pasos%20TFG.png {:.centered})
+![](https://raw.githubusercontent.com/mariosainzmartinez/TFG/main/Infografi%CC%81a%20pasos%20TFG.png) {:.centered}
 
 ## Información detallada de las tareas a realizar:
 
