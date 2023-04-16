@@ -1,5 +1,5 @@
 
-![](https://github.com/mariosainzmartinez/TFG/blob/7f5a1f9b1a9009502bd658c64a19a3cfe2b6e009/Bannertfg.png)
+![](https://github.com/mariosainzmartinez/TFG/blob/de5ed4c375be8287f5569788419b7ba578236646/Bannertfg.png)
 
 
 ## Introducción:
