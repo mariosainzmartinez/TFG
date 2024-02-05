@@ -28,6 +28,8 @@ A continuación mostramos en la siguiente tabla el esquema detallado con los rec
 
 En tercer lugar, proporcionamos algunos recursos teóricos sobre el proceso de la[deshumanización](https://www.youtube.com/watch?v=QuNbNNqtMvs) sobre el que el alumnado deberá realizar su TFG.
 
+Revisiones de la literatura realizadas por [Vaes et al. (2012)](https://www.tandfonline.com/doi/abs/10.1080/10463283.2012.665250), [Haslam y Loughnan (2014)](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-010213-115045) o [Kteily & Landry (2022)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(21)00311-9). Estos documentos resumen toda la literatura existente sobre deshumanización y pueden ser muy útiles para generar una idea de cara al TFG.
+
 ## Recursos sobre metodología de la investigación y análisis de datos:
 
 ## Recursos sobre referencias en formato [APA] 
