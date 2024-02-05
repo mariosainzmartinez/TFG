@@ -6,7 +6,7 @@ Este es el repositorio creado por [Mario Sainz](https://www.uned.es/universidad/
 
 Para comenzar debemos tener una idea general de los diferentes pasos del TFG. Como puede verse en la siguiente imágen a lo largo del semestre tendremos una serie de tareas que culminarán con la entrega y la defensa del trabajo.
 
-![](https://raw.githubusercontent.com/mariosainzmartinez/TFG/main/Infografi%CC%81a%20pasos%20TFG.png){:.centered}
+![](https://raw.githubusercontent.com/mariosainzmartinez/TFG/main/Infografi%CC%81a%20pasos%20TFG.png)
 
 ## Información detallada de las tareas a realizar:
 
@@ -14,7 +14,7 @@ A continuación mostramos en la siguiente tabla el esquema detallado con los rec
 
 | Orden | Tareas a realizar | Contenido | Recursos | Entrega |
 |-----:|---------------|---------------|---------------| ---------------|
-|     1| Asistir a la jornada online de bienvenida | Presentación de la materia y breve explicación teórica | [Link reunión](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzMyYjIxYTQtYWIwNi00NWJkLWFjNWEtZGQ3NWRhYjBiNzg3%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%22fbd5930f-ea46-45f2-aba6-533584de5139%22%7d) [Link grabación](proximamente)| 
+|     1| Asistir a la jornada online de bienvenida | Presentación de la materia y breve explicación teórica | [Link reunión/grabación](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzMyYjIxYTQtYWIwNi00NWJkLWFjNWEtZGQ3NWRhYjBiNzg3%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%22fbd5930f-ea46-45f2-aba6-533584de5139%22%7d)| 
 |     2| Elegir un (sub)tema del TFG | Definir brevemente el tema de trabajo relacionado con la deshumanización en el que vamos a realizar el trabajo | [Presentación para elegir tema] (poner presentación)|[Link entrega](https://forms.office.com/Pages/DesignPage.aspx#FormId=SHBYtXCgrUO2VCCjHpstmQ-T1ftG6vJFq6ZTNYTeUTlUQzRVTzVWMVRCVzQ0RDAzVU8wN0JHQkhFSC4u)
 |     3| Propuesta esquemática del TFG  |
 |     4| Primer borrador del TFG  |
