@@ -19,7 +19,7 @@ A continuación mostramos en la siguiente tabla el esquema detallado con los rec
 |     3| Propuesta esquemática del TFG  | Realizar una primera propuesta de la investigación a realizar definiendo esquemáticamente cada apartado teórico/metodológico|
 |     4| Primer borrador del TFG  | Entregar una primer versión completa del TFG para que el profesor la revise y proporcione retroalimentación del trabajo antes de la entrega final|
 |     5| Entrega del documento final del TFG  | Entregar la versión final del TFG para que sea calificada por el profresor|
-|     6| Defensa pública del TFG  |Realizar una presentación online sobre el contenido del trabajo|
+|     6| Defensa pública del TFG  |Realizar una presentación online sobre el contenido del trabajo| [Plantilla para la presentación](https://unedo365-my.sharepoint.com/:p:/g/personal/msainz_psi_uned_es/ERJV0QZTmR5JvvKTSIoO3EMB4ZOrBfGMhogIAr0FGyetag?e=RXkTY1) | Subir la presentación a esta [carpeta compartida] (https://unedo365-my.sharepoint.com/:f:/g/personal/msainz_psi_uned_es/EgNPQ_QE0uVEoKcNk0jBS9oBnb8Ik65L1y9GF40WAuVLlg?e=KdexEP)
 |     7| Retroalimentación al profesor  |Una vez acabado todo el proceso realizar una pequeña encuesta para dar retroalimentación al profesor sobre aspectos a mejorar en los siguientes cursos|
 
 
