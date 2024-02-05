@@ -30,6 +30,8 @@ En tercer lugar, proporcionamos algunos recursos teóricos sobre el proceso de l
 
 Revisiones de la literatura realizadas por [Vaes et al. (2012)](https://www.tandfonline.com/doi/abs/10.1080/10463283.2012.665250), [Haslam y Loughnan (2014)](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-010213-115045) o [Kteily & Landry (2022)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(21)00311-9). Estos documentos resumen toda la literatura existente sobre deshumanización y pueden ser muy útiles para generar una idea de cara al TFG.
 
+Libros sobre deshumanización publicados por [Bain et al. (2014)](https://www.routledge.com/Humanness-and-Dehumanization/Bain-Vaes-Leyens/p/book/9781848726901) o [Kronfeldner (2021)](https://www.routledge.com/The-Routledge-Handbook-of-Dehumanization/Kronfeldner/p/book/9780367637132).
+
 ## Recursos sobre metodología de la investigación y análisis de datos:
 
 ## Recursos sobre referencias en formato [APA] 
