@@ -22,7 +22,7 @@ A continuación mostramos en la siguiente tabla el esquema detallado con los rec
 |     6| Defensa pública del TFG  |Realizar una presentación online sobre el contenido del trabajo (Junio)| [Plantilla para la presentación](https://unedo365-my.sharepoint.com/:p:/g/personal/msainz_psi_uned_es/ERJV0QZTmR5JvvKTSIoO3EMB4ZOrBfGMhogIAr0FGyetag?e=RXkTY1) | [Subir la presentación a esta carpeta](https://unedo365-my.sharepoint.com/:f:/g/personal/msainz_psi_uned_es/EgNPQ_QE0uVEoKcNk0jBS9oBnb8Ik65L1y9GF40WAuVLlg?e=KdexEP)
 |     7| Retroalimentación al profesor  |Una vez acabado todo el proceso realizar una pequeña encuesta para dar retroalimentación al profesor sobre aspectos a mejorar en los siguientes cursos|
 
-<sup> * </sup> ATENCIÓN: Los documentos (word, pdf, powert points, etc.) que se suban deberán tener el siguiente nombre APELLIDO, NOMBRE (por ejemplo, "SAINZ, MARIO.pdf")
+<sup> * </sup> ATENCIÓN: Los documentos (word, pdf, powert point, etc.) que se suban deberán tener el siguiente nombre APELLIDO, NOMBRE (por ejemplo, "SAINZ, MARIO.pdf")
 
 ## Recursos sobre [deshumanización](https://www.youtube.com/watch?v=QuNbNNqtMvs):
 
