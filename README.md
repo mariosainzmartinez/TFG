@@ -30,6 +30,14 @@ _Revisiones de la literatura_ realizadas por [Vaes et al. (2012)](https://www.ta
 
 _Libros_ sobre deshumanización publicados por [Bain et al. (2014)](https://www.routledge.com/Humanness-and-Dehumanization/Bain-Vaes-Leyens/p/book/9781848726901) o [Kronfeldner (2021)](https://www.routledge.com/The-Routledge-Handbook-of-Dehumanization/Kronfeldner/p/book/9780367637132).
 
+_Ejemplos de artículos científicos_ aplicados a diferentes ámbitos psicosociales:
+- Deshumanización de las personas pobres.
+- Deshumanización en el ámbito laboral.
+- Deshumanización de las personas inmigrantes/refugiados.
+- Deshumanización en el ámbito laboral.
+- Deshumanización y desigualdad de genero.
+- Deshumanización y desigualdad socioeconómica.
+
 ## Recursos sobre metodología de la investigación y análisis de datos:
 
 ## Recursos sobre referencias en formato [APA] 
