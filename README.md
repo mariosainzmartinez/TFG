@@ -20,7 +20,7 @@ A continuación mostramos en la siguiente tabla el esquema detallado con los rec
 |     4| Primer borrador del TFG  | Entregar una primer versión completa del TFG para que el profesor la revise y proporcione retroalimentación del trabajo antes de la entrega final|
 |     5| Entrega del documento final del TFG  | Entregar la versión final del TFG para que sea calificada por el profresor|
 |     6| Defensa pública del TFG  |Realizar una presentación online sobre el contenido del trabajo|
-|     7| Retroalimentación al profesor  |Una vez acabado todo el proceso realizar una pequeña encuesta para dar retroalimentación al profesor sobre aspectos a mejorar en siguientes cursos|
+|     7| Retroalimentación al profesor  |Una vez acabado todo el proceso realizar una pequeña encuesta para dar retroalimentación al profesor sobre aspectos a mejorar en los siguientes cursos|
 
 
 
