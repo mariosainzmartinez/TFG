@@ -12,7 +12,7 @@ Para comenzar debemos tener una idea general de los diferentes pasos del TFG. Co
 
 A continuación mostramos en la siguiente tabla el esquema detallado con los recursos para cada paso que tenemos que realizar en el TFG. Las tareas siguen un orden secuencial y para progresar en las distintas fases debemos en muchos casos contar con el visto bueno del profesor.
 
-| Orden | Tareas a realizar | Contenido | Recursos | Entrega |
+| Orden | Tareas a realizar | Contenido | Recursos | Entrega <sup>*</sup> |
 |-----:|---------------|---------------|---------------| ---------------|
 |     1| Asistir a la jornada online de bienvenida | Presentación de la materia y breve explicación teórica | [Recomendaciones iniciales](documentos)| [Link reunión/grabación](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzMyYjIxYTQtYWIwNi00NWJkLWFjNWEtZGQ3NWRhYjBiNzg3%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%22fbd5930f-ea46-45f2-aba6-533584de5139%22%7d)
 |     2| Elegir un (sub)tema del TFG | Definir brevemente el tema de trabajo relacionado con la deshumanización en el que vamos a realizar el trabajo | [Presentación para elegir tema] (poner presentación)|[Link entrega](https://forms.office.com/Pages/DesignPage.aspx#FormId=SHBYtXCgrUO2VCCjHpstmQ-T1ftG6vJFq6ZTNYTeUTlUQzRVTzVWMVRCVzQ0RDAzVU8wN0JHQkhFSC4u)
