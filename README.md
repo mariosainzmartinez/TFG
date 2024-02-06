@@ -39,5 +39,5 @@ _Algunos ejemplos de artículos científicos_ aplicados a diferentes ámbitos ps
 
 ## Recursos sobre metodología de la investigación y análisis de datos:
 
-## Recursos sobre referencias en formato [APA] 
+## Recursos sobre referencias en formato [APA](https://normas-apa.org/) 
 
