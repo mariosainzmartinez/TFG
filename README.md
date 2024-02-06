@@ -4,7 +4,7 @@
 
 Este es el repositorio creado por [Mario Sainz](https://www.uned.es/universidad/docentes/psicologia/mario-sainz-martinez.html#introduccion) para proporcionar al estudiantado al que tutoriza las herramientas para elaborar el Trabajo de Fin de Grado (TFG) en la línea de deshumanización (Psicología Social) de la Facultad de Psicología de la UNED. Las orientaciones incluidas en este repositorio servirán de guía para las diferentes tareas que se tienen que realizar a lo largo del semestre. No obstante, las indicaciones aquí proporcionadas estárán siempre supeditadas al calendario oficial de la Universidad y a las indicaciones propias de la guías de la asignaturas para el grado en [Psicología](https://portal.uned.es/portal/page?_pageid=93,71763119&_dad=portal&_schema=PORTAL&idAsignatura=62014260), el grado en [Criminología](https://portal.uned.es/portal/page?_pageid=93,71763119&_dad=portal&_schema=PORTAL&idAsignatura=66044140) o el grado en [Trabajo Social](https://portal.uned.es/portal/page?_pageid=93,71763119&_dad=portal&_schema=PORTAL&idAsignatura=66034041).
 
-Para comenzar debemos tener una idea general de los diferentes pasos del TFG. Como puede verse en la siguiente imágen a lo largo del semestre tendremos una serie de tareas que culminarán con la entrega y la defensa del trabajo.
+Para comenzar debemos tener una idea general de los diferentes pasos del TFG. Como puede verse en la siguiente imagen a lo largo del semestre tendremos una serie de tareas que culminarán con la entrega y la defensa del trabajo.
 
 ![](https://raw.githubusercontent.com/mariosainzmartinez/TFG/main/Infografi%CC%81a%20pasos%20TFG.png)
 
@@ -40,4 +40,10 @@ _Algunos ejemplos de artículos científicos_ aplicados a diferentes ámbitos ps
 ## Recursos sobre metodología de la investigación y análisis de datos:
 
 ## Recursos sobre referencias en formato [APA](https://normas-apa.org/) 
+
+Tenéis a vuestra disposición tutoriales de la biblioteca de la UNED para las [normas APA](https://www.youtube.com/watch?v=gTURFhZkoIs) y los [errores comunes](https://www.youtube.com/watch?v=Hxagy2iZDng) en la citación de las referencias utilizadas.
+
+Igualmente os recomiendo que aprendáis a usar algún [gestor de la bibliografía](https://www.youtube.com/watch?v=4CaVpuyFeB4) gratuito como Zotero o [Mendeley](https://www.youtube.com/watch?v=mLkO-aYzvx8) que permiten hacer las citas y referencias de manera automática ahorrando mucho tiempo y evitando errores (ojo! siempre revisar por si acaso manualmente)
+
+
 
