@@ -45,7 +45,7 @@ Aquí tenéis un documento de la facultad de Psicología de la UNED con indicaci
 
 Tenéis a vuestra disposición tutoriales de la biblioteca de la UNED para las [normas APA](https://www.youtube.com/watch?v=gTURFhZkoIs) y los [errores comunes](https://www.youtube.com/watch?v=Hxagy2iZDng) en la citación de las referencias utilizadas.
 
-Igualmente os recomiendo que aprendáis a usar algún [gestor de la bibliografía](https://www.youtube.com/watch?v=4CaVpuyFeB4) gratuito como Zotero o [Mendeley](https://www.youtube.com/watch?v=mLkO-aYzvx8) que permiten hacer las citas y referencias de manera automática ahorrando mucho tiempo y evitando errores (ojo! siempre revisar por si acaso manualmente)
+Igualmente os recomiendo que aprendáis a usar algún [gestor de la bibliografía](https://www.youtube.com/watch?v=4CaVpuyFeB4) gratuito como Zotero o [Mendeley](https://www.youtube.com/watch?v=mLkO-aYzvx8) que permiten hacer las citas y referencias de manera automática ahorrando mucho tiempo y evitando errores (ojo! siempre revisar las citas generadas por los gestores).
 
 
 
