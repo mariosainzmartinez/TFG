@@ -39,6 +39,8 @@ _Algunos ejemplos de artículos científicos_ aplicados a diferentes ámbitos ps
 
 ## Recursos sobre metodología de la investigación y análisis de datos:
 
+Aquí tenéis un documento de la facultad de Psicología de la UNED con indicaciones sobre el [TFG](https://unedo365-my.sharepoint.com/:b:/g/personal/msainz_psi_uned_es/EX4_Pg44MhdNhxodN4nc_WMBOkCs0aVU4A1-KLsRttmgRQ?e=SaWWKn).
+
 ## Recursos sobre referencias en formato [APA](https://normas-apa.org/) 
 
 Tenéis a vuestra disposición tutoriales de la biblioteca de la UNED para las [normas APA](https://www.youtube.com/watch?v=gTURFhZkoIs) y los [errores comunes](https://www.youtube.com/watch?v=Hxagy2iZDng) en la citación de las referencias utilizadas.
